@@ -1,7 +1,6 @@
 # Predicción de churn en telecomunicaciones
 
 Proyecto integrador del curso **Herramientas para la Ciencia de Datos**
-(Facultad de Negocios, UPC · Administración y Ciencia de Datos para Negocios).
 
 **Estado:** Hito 1 (avance del examen parcial).
 
