@@ -32,8 +32,9 @@ mayor riesgo de darse de baja.
 
 ## Documentos del proyecto
 
-- [Ficha CRISP-DM](informes/Ficha_Proyecto_CRISP-DM_Hito1.docx)
 - [Canvas del proyecto de datos](informes/Canvas_Proyecto_Datos_Hito1.docx)
+- [Ficha CRISP-DM](informes/Ficha_Proyecto_CRISP-DM_Hito1.docx)
+- [Presentación del avance (PDF)](informes/Hito1_Avance_Proyecto_Integrador.pdf)
 - [Plan de modelado](informes/Plan%20de%20modelado.docx)
 
 ## Datos
